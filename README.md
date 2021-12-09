@@ -1,7 +1,6 @@
 ## Olá! eu sou Valéria Bueno do Valle
 
-- 🌱 Estudando Desenvolvimento Web Full Stack
-- 😄 Pronomes: Ela / Dela
+### 👩🏼‍🎓 Estudando Desenvolvimento Web Full Stack
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valeriadovalle/">
